@@ -1,5 +1,7 @@
 # 0cean Space
 ## 0cean Space team in NASA INTERNATIONAL SPACE APPS CHALLENGE 2022
+### [0cean Space Project Page](https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/teams/0cean-space/project "Title") 
+### [0cean Space Demo on YouTube](https://www.youtube.com/watch?v=E7fb6NN_QkQ "Title") 
 ### HIGH-LEVEL PROJECT SUMMARY
 0cean Space is a game that helps people to get familiar with the James Webb Space Telescope (JWST). In our game, players will control the James Webb Space Telescope to rotate. Players also have to capture images that are all based on original images. Eventually, players will realize what the James Webb Space Telescope has discovered while having fun with this game alone or with friends. 0cean Space brings an entertaining experience that will arouse people's interest in the James Webb Space Telescope (JWST).
 
